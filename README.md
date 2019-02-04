@@ -1,11 +1,12 @@
 # Directory Change Notifications
 To know when and which files are changed in windows filesystem and getting notification
 
------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 [1. Using ReadDirectoryChangesW function](#1-using-readdirectorychangesw-function)
+[2. Using FindFirstChangeNotification function](#2-using-findfirstchangenotification-function)
 
------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 <!-- toc -->
 ## 1. Using ReadDirectoryChangesW function ##
@@ -95,3 +96,6 @@ void WatchDirectory(LPCWSTR path)
 
 }
 <code><pre>
+
+## 2. Using FindFirstChangeNotification function ##
+
