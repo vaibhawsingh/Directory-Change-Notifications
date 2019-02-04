@@ -96,7 +96,7 @@ void WatchDirectory(LPCWSTR path)
 	CloseHandle(hDir);
 
 }
-<code><pre>
+</code></pre>
 
 ## 2. Using FindFirstChangeNotification function ##
 
