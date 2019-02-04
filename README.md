@@ -4,6 +4,7 @@ To know when and which files are changed in windows filesystem and getting notif
 --------------------------------------------------------------------------------------------------------------------------------
 
 [1. Using ReadDirectoryChangesW function](#1-using-readdirectorychangesw-function)
+
 [2. Using FindFirstChangeNotification function](#2-using-findfirstchangenotification-function)
 
 --------------------------------------------------------------------------------------------------------------------------------
